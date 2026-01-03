@@ -1,5 +1,5 @@
 # 🛰️ Autonomous Satellite Docking Vision System  
-*A complete Computer Vision Challenge implementation by Satyam Kumar*
+*A complete Computer Vision Challenge implementation by Me*
 
 ---
 
@@ -29,4 +29,5 @@ All modules are tested using `tests/test_all_parts.py` — a complete suite that
 - ✅ Homography-based 3D → 2D projection  
 - ✅ Video animation of camera movement  
 - ✅ Auto test pipeline to verify all components
+
 
